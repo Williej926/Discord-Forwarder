@@ -1,0 +1,7 @@
+#Intro
+This script logins to a provided user token and forwards messages with embeds/attachments to specified webhooks. This script only reads, it does not perform any other actions that
+may interfere with Discord TOS. Use at your own risk!
+
+#How to use
+Setup is very simple. Edit the config file as shown. So far, only one user token is supported at a time. 
+However, a user may add as many channels as they want as long as it is in the correct json format. Note that the names of the field must correspond or else no webhook will be sent!
