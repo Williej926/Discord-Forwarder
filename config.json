@@ -1,0 +1,22 @@
+{
+
+    "user_tokens": {
+
+        "user": "INSERT TOKEN HERE"
+
+    },
+
+    "channels": {
+        "Channel 1" : "CHANNEL1_ID_HERE",
+	      "Channel 2" : "CHANNEL2_ID_HERE"
+
+    },
+
+    "webhooks": {
+
+	      "Channel 1" : "CHANNEL1_WEBHOOK_HERE",
+	      "Channel 2" : "CHANNEL2_WEBHOOK_HERE"
+
+    }
+
+}
